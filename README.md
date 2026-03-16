@@ -1,16 +1,16 @@
-## Hi there 👋
+## 🧑‍💻 Sobre mim
+Olá! Me chamo **João Vitor**, sou estudante de **Engenharia de Software na PUCPR** e este repositório reúne **projetos e atividades desenvolvidas durante meus estudos**, além de alguns **projetos pessoais voltados para aprendizado prático**.
 
-<!--
-**joaovcampos-dev/joaovcampos-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu objetivo é **documentar minha evolução como desenvolvedor**, registrando tecnologias que estou aprendendo, projetos de aprendizado e exercícios da faculdade.
 
-Here are some ideas to get you started:
+## 📚 Atualmente estou aprendendo
+* ⚡ **JavaScript**
+* ⚙️ **Node.js**
+* 🗄️ **SQL / MySQL**
+* 🧩 **Conceitos de Engenharia de Software**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias que já utilizei
+* 🌐 **HTML / CSS**
+* 🐍 **Python**
+* 🌶️ **Flask**
+* 🧠 **Fundamentos de programação**
